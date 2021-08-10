@@ -28,6 +28,11 @@
  <a href="https://github.com/TheRuchirShah" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  <a href="https://codepen.io/TheKryptonian" target="_blank"><img src="https://github.com/TheRuchirShah/TheRuchirShah/blob/main/assets/codepen.svg" target="_blank"></a>
  
+<a href="https://twitter.com/theruchirshah/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/twitter-badge.svg" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/theruchirshah/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/linkedin-badge.svg" target="_blank"></a>
+ <a href="https://github.com/TheRuchirShah/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/codepen-badge.svg" target="_blank"></a>
+ <a href="https://codepen.io/TheKryptonian/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/github-badge.svg" target="_blank"></a>
+ 
 
 ![Snake animation](https://github.com/TheRuchirShah/TheRuchirShah/blob/output/github-contribution-grid-snake.svg)
 </div>
