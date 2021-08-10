@@ -7,3 +7,4 @@
 </div>
 
   ![Snake animation](https://github.com/TheRuchirShah/TheRuchirShah/blob/output/github-contribution-grid-snake.svg)
+
