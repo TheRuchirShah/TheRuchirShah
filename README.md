@@ -1,15 +1,14 @@
 ## Hi! I'm Ruchir Shah
 
- <div>
+<div>
   <a href="https://github.com/TheRuchirShah">
    <img height="200em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TheRuchirShah&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRuchirShah&layout=compact&langs_count=10&theme=dark" alt="" />
 </div>
  
- ##
+##
  
- ##### Below are the technologies I'm working on or I've worked on.
- 
+##### Below are the technologies I'm working on or I've worked on.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,6 +21,7 @@
  
 ##
  
+##### Below are the social links, connect with me.
 <div> 
  <a href="https://twitter.com/theruchirshah/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/twitter-badge.svg" target="_blank"></a>
  <a href="https://www.linkedin.com/in/theruchirshah/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/linkedin-badge.svg" target="_blank"></a>
