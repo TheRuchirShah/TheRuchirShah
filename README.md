@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/TheRuchirShah">
-   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TheRuchirShah&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRuchirShah&layout=compact&langs_count=10&theme=dark" alt="" /> 
+   <img height="200em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TheRuchirShah&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRuchirShah&layout=compact&langs_count=10&theme=dark" alt="" /> 
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=TheRuchirShah&bg_color=151515&line=69d881&point=dadada&color=dadada&area=true&area_color=69d881&hide_border=true" width="98%"> -->
 </div>
  
