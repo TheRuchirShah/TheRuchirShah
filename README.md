@@ -74,10 +74,8 @@
  <a href="https://www.linkedin.com/in/theruchirshah/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/linkedin-badge.svg" target="_blank"></a>
  <a href="https://codepen.io/TheKryptonian/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/codepen-badge.svg" target="_blank"></a>
  <a href="https://github.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/github-badge.svg" target="_blank"></a>
-  behance
-  dribbble
-  <a href="https://github.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/behance-badge.svg" target="_blank"></a>
-  <a href="https://github.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/dribbble-badge.svg" target="_blank"></a>
+ <a href="https://behance.net/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/behance-badge.svg" target="_blank"></a>
+ <a href="https://dribbble.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/dribbble-badge.svg" target="_blank"></a>
 </div>
  
 ![Snake animation](https://github.com/TheRuchirShah/TheRuchirShah/blob/output/github-contribution-grid-snake.svg)
