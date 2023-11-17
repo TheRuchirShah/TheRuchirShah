@@ -60,7 +60,10 @@
 ![test](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![test](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-  #### TOOLS
+##### FRAMEWORKS, PLATFORMS & LIBRARIES
+##### FRAMEWORKS, PLATFORMS & LIBRARIES
+##### FRAMEWORKS, PLATFORMS & LIBRARIES
+##### TOOLS
 ![test](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![test](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
