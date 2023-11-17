@@ -104,14 +104,6 @@
 ![test](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![test](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![test](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![test]()
-![test]()
-![test]()
-![test]()
-![test]()
-![test](https://aleen42.github.io/badges/src/illustrator.svg)
-![test](https://aleen42.github.io/badges/src/photoshop.svg)
-![test](https://aleen42.github.io/badges/src/behance.svg)
 
 
 ##### FRAMEWORKS
