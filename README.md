@@ -61,6 +61,27 @@
 ![test](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![test](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
+	https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
+ https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white
+ https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white
+ https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+ https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white
+ https://aleen42.github.io/badges/src/illustrator.svg
+ https://aleen42.github.io/badges/src/photoshop.svg
+ https://aleen42.github.io/badges/src/behance.svg
+ https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+ https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+ https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
+ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
+https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white
+https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
+https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white
+https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white
+https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+ 
+
+
 ##### FRAMEWORKS
 ##### LIBRARIES
 ##### FRAMEWORKS, PLATFORMS & LIBRARIES
