@@ -42,7 +42,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-##### FRAMEWORKS, PLATFORMS & LIBRARIES
+##### PLATFORMS & LIBRARIES
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -60,8 +60,8 @@
 ![test](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![test](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-##### FRAMEWORKS, PLATFORMS & LIBRARIES
-##### FRAMEWORKS, PLATFORMS & LIBRARIES
+##### FRAMEWORKS
+##### LIBRARIES
 ##### FRAMEWORKS, PLATFORMS & LIBRARIES
 ##### TOOLS
 ![test](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
