@@ -50,7 +50,7 @@
 ![test](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-##### PLATFORMS & LIBRARIES
+##### PLATFORMS, LIBRARIES & FRAMEWORKS
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -70,19 +70,14 @@
 ![test](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
 
-### ASDF
+##### PLATFORMS, LIBRARIES & FRAMEWORKS
 ![test](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![test](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![test](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![test](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 
-
-
-##### LIBRARIES
-
-
-##### FRAMEWORKS, PLATFORMS
+##### PLATFORMS, LIBRARIES & FRAMEWORKS
 ![test](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![test](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![test](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -145,8 +140,8 @@
  <a href="https://github.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/github-badge.svg" target="_blank"></a>
  <a href="https://behance.net/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/behance-badge.svg" target="_blank"></a>
  <a href="https://dribbble.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/dribbble-badge.svg" target="_blank"></a>
-  ![test](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 </div>
+![test](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
  
 ![Snake animation](https://github.com/TheRuchirShah/TheRuchirShah/blob/output/github-contribution-grid-snake.svg)
  
