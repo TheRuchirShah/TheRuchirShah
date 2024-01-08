@@ -24,6 +24,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![test](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![test](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
 ##### HOSTING / SAAS
@@ -68,15 +70,9 @@
 ![test](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
 
-ASDF
+### ASDF
 ![test](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![test](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![test](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
-![test](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![test](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![test](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![test](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![test](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![test](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![test](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
@@ -117,6 +113,7 @@ ASDF
 ![Dribbble](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white) 	
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![test](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
 ##### ML/DL
@@ -148,6 +145,7 @@ ASDF
  <a href="https://github.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/github-badge.svg" target="_blank"></a>
  <a href="https://behance.net/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/behance-badge.svg" target="_blank"></a>
  <a href="https://dribbble.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/dribbble-badge.svg" target="_blank"></a>
+  ![test](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 </div>
  
 ![Snake animation](https://github.com/TheRuchirShah/TheRuchirShah/blob/output/github-contribution-grid-snake.svg)
