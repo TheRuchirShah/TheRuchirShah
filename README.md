@@ -77,13 +77,6 @@
 ![test](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-##### PLATFORMS, LIBRARIES & FRAMEWORKS
-
-
-##### PLATFORMS, LIBRARIES & FRAMEWORKS
-
-
-
 ##### TOOLS
 ![test](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![test](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
