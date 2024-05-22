@@ -112,7 +112,6 @@
 
 
 ##### WEBSITE/APPS
-![test](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![test](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![test](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![test](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
