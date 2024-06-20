@@ -133,5 +133,4 @@
 </div>
 
  
-![Snake animation](https://github.com/TheRuchirShah/TheRuchirShah/blob/output/github-contribution-grid-snake.svg)
- 
+![snake gif](https://github.com/TheRuchirShah/TheRuchirShah/blob/output/github-contribution-grid-snake.gif) 
