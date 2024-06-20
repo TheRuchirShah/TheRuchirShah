@@ -132,5 +132,5 @@
  <a href="https://dribbble.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/dribbble-badge.svg" target="_blank"></a>
 </div>
 
- 
-![snake gif](https://github.com/TheRuchirShah/TheRuchirShah/blob/output/github-contribution-grid-snake.gif) 
+##### Contribution graph.
+![snake gif](https://github.com/TheRuchirShah/TheRuchirShah/blob/output/github-contribution-grid-snake.svg) 
