@@ -8,7 +8,13 @@
 </div>
  
 ##
- 
+
+## 😎 About Me:
+
+ I’m a creative and strategic UX/UI Designer and Web Developer dedicated to crafting seamless and engaging digital experiences. With a proven track record of designing user-centric web and mobile applications, I specialize in blending functionality with aesthetics. My design process is data-driven, yet creatively inspired, ensuring that every project not only meets the needs of users but also aligns with business objectives.
+
+I thrive on collaborating with cross-functional teams to create intuitive and innovative solutions. Whether it’s enhancing e-commerce platforms, improving healthcare apps, or building wellness experiences, I am passionate about solving problems through design.
+
  
 ## 💻 Tech Stack:
 
