@@ -7,7 +7,6 @@
     <!--   <img src="https://activity-graph.herokuapp.com/graph?username=TheRuchirShah&bg_color=151515&line=69d881&point=dadada&color=dadada&area=true&area_color=69d881&hide_border=true" width="98%"> -->
 </div>
  
-##
 
 ## 😎 About Me:
 
