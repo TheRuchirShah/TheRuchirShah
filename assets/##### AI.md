@@ -1,6 +1,5 @@
-## THIS IS FINAL
 
-##### AI / ML / DL
+##### UX Tech Stack
 
 Google Form - ![Static Badge](https://img.shields.io/badge/google%20forms-%23802BBE?style=for-the-badge&logo=googleforms)
 
@@ -22,6 +21,7 @@ Optimal Worshop - ![Static Badge](https://img.shields.io/badge/optimal%20worksho
 Whimsical - ![Static Badge](https://img.shields.io/badge/Whimsical-%23250835?style=for-the-badge)
 
 ProtoPie - ![Static Badge](https://img.shields.io/badge/ProtoPie-%23FD5552?style=for-the-badge)
+
 
 
 
