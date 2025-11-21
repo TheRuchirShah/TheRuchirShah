@@ -17,8 +17,6 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
  
 ## 💻 Tech Stack:
 
-## THIS IS FINAL
-
 ##### AI / ML / DL
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -73,7 +71,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ##### IDE
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![CodePen](https://img.shields.io/badge/CodePen-e0e0e0?style=for-the-badge&logo=codepen&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -148,7 +146,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 <div> 
  <a href="https://twitter.com/theruchirshah/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/twitter-badge.svg" target="_blank"></a>
  <a href="https://www.linkedin.com/in/theruchirshah/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/linkedin-badge.svg" target="_blank"></a>
- <a href="https://codepen.io/TheKryptonian/" target="_blank"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" target="_blank"></a>
+ <a href="https://codepen.io/TheKryptonian/" target="_blank"><img src="https://img.shields.io/badge/CodePen-e0e0e0?style=for-the-badge&logo=codepen&logoColor=black" target="_blank"></a>
  <a href="https://github.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/github-badge.svg" target="_blank"></a>
  <a href="https://behance.net/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/behance-badge.svg" target="_blank"></a>
  <a href="https://dribbble.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/dribbble-badge.svg" target="_blank"></a>
