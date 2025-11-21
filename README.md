@@ -155,5 +155,5 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 
 
 ##### Contribution graph.
-![snake gif](https://github.com/antfu/antfu/blob/output/github-contribution-grid-snake.gif) 
+![snake gif](https://github.com/TheRuchirShah/antfu/blob/output/github-contribution-grid-snake.gif) 
 
