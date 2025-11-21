@@ -15,6 +15,8 @@ Microsoft Clarity - ![Static Badge](https://img.shields.io/badge/Microsoft%20Cla
 
 Userberry - ![Static Badge](https://img.shields.io/badge/Useberry-%23FF3666?style=for-the-badge)
 
+Hotjar - ![Static Badge](https://img.shields.io/badge/hotjar-%23323232?style=for-the-badge&logo=hotjar&logoColor=%23FF3C00)
+
 
 
 
