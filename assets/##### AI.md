@@ -19,6 +19,10 @@ Hotjar - ![Static Badge](https://img.shields.io/badge/hotjar-%23323232?style=for
 
 Optimal Worshop - ![Static Badge](https://img.shields.io/badge/optimal%20workshop-%23FFAD01?style=for-the-badge)
 
+Whimsical - ![Static Badge](https://img.shields.io/badge/Whimsical-%23250835?style=for-the-badge)
+
+ProtoPie - ![Static Badge](https://img.shields.io/badge/ProtoPie-%23FD5552?style=for-the-badge)
+
 
 
 
