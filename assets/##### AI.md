@@ -14,7 +14,7 @@ Microsoft Clarity - ![Static Badge](https://img.shields.io/badge/Microsoft%20Cla
 
 Userberry - ![Static Badge](https://img.shields.io/badge/Useberry-%23FF3666?style=for-the-badge)
 
-Hotjar - ![Static Badge](https://img.shields.io/badge/hotjar-%23323232?style=for-the-badge&logo=hotjar&logoColor=%23FF3C00)
+Hotjar - ![Static Badge](https://img.shields.io/badge/hotjar-%23323232?style=for-the-badge&logo=hotjar&logoColor=%FFFFFF)
 
 Optimal Worshop - ![Static Badge](https://img.shields.io/badge/optimal%20workshop-%23FFAD01?style=for-the-badge)
 
@@ -35,6 +35,10 @@ GitBook - ![Static Badge](https://img.shields.io/badge/GitBook-%233681FC?style=f
 Mixpanel - ![Static Badge](https://img.shields.io/badge/Mixpanel-%237856FF?style=for-the-badge&logo=mixpanel&logoColor=%23ffffff)
 
 Googl Analytics - ![Static Badge](https://img.shields.io/badge/Google%20Analytics-F57E04?style=for-the-badge&logo=googleanalytics&logoColor=%23FFFFFF)
+
+Material UI - ![Static Badge](https://img.shields.io/badge/Material%20UI-%23007FFF?style=for-the-badge&logo=mui&logoColor=%23FFFFFF)
+
+Tailwind CSS - ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=%23FFFFFF&logoSize=auto)
 
 
 
