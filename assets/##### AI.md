@@ -50,6 +50,35 @@ Carbon Design Systerm - ![Static Badge](https://img.shields.io/badge/carbon%20de
 
 ![Static Badge](https://img.shields.io/badge/Shopify%20Polaris-20154B?style=for-the-badge&logo=shopify&logoColor=%23FFFFFF&logoSize=amd)
 
+![Static Badge](https://img.shields.io/badge/Lightning%20Design%20System-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=%23FFFFFF&logoSize=amd)
+
+![Static Badge](https://img.shields.io/badge/Ark%20UI-%23EB5E41?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/Atlassian%20Design%20System-%231868DB?style=for-the-badge&logo=atlassian)
+
+![Static Badge](https://img.shields.io/badge/Uber%20Base%20Design%20System-%23000000?style=for-the-badge&logo=uber&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/SAP%20Fiori-%230499D3?style=for-the-badge&logo=sap&logoColor=%23ffffff&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/zag.js-%2300D163?style=for-the-badge&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Material%20Design-%239A49ED?style=for-the-badge&logo=materialdesign&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Human%20Interface%20Guidelines-%23000000?style=for-the-badge&logo=apple&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Microsoft%20Fluent-%23D9D9D9?style=for-the-badge&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Microsoft%20Fluent-%2300A3EE?style=for-the-badge&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Adobe%20Spectrum%20Design%20System-%23FF0000?style=for-the-badge&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/GitLab%20Pajamas%20Design%20System-%238244C9?style=for-the-badge&logo=gitlab&logoColor=%23FFFFFF&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Airbnb%20Design%20Language%20System-%23FF5A5F?style=for-the-badge&logo=airbnb&logoColor=%23FFFFFF&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Amazon%20Cloudscape%20Design%20System-%23FF9900?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/Intuit%20System%20Design-%23236CFF?style=for-the-badge&logo=intuit&logoSize=auto)
 
 
 
