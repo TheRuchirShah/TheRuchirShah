@@ -92,6 +92,11 @@ Carbon Design Systerm - ![Static Badge](https://img.shields.io/badge/carbon%20de
 
 ![Static Badge](https://img.shields.io/badge/WAVE%20Web%20Accessibility%20Tool-%234777B5?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
 
+![Static Badge](https://img.shields.io/badge/Use%20Contrast-%23FFFF00?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Obsidian-%238060D3?style=for-the-badge&logo=obsidian&logoSize=auto)
+
+
 
 
 
