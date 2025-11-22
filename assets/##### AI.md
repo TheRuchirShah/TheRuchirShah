@@ -40,6 +40,9 @@ Material UI - ![Static Badge](https://img.shields.io/badge/Material%20UI-%23007F
 
 Tailwind CSS - ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=%23FFFFFF&logoSize=auto)
 
+Ant Design - ![Static Badge](https://img.shields.io/badge/Ant%20Design-%231e1e1e?style=for-the-badge&logo=antdesign&logoColor=%23FFFFFF&logoSize=amd)
+
+Chakra UI - ![Static Badge](https://img.shields.io/badge/Chakra%20UI-%2329BFB3?style=for-the-badge&logo=chakraui&logoColor=%23FFFFFF&logoSize=amd)
 
 
 
