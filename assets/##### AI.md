@@ -44,6 +44,12 @@ Ant Design - ![Static Badge](https://img.shields.io/badge/Ant%20Design-%231e1e1e
 
 Chakra UI - ![Static Badge](https://img.shields.io/badge/Chakra%20UI-%2329BFB3?style=for-the-badge&logo=chakraui&logoColor=%23FFFFFF&logoSize=amd)
 
+Carbon Design Systerm - ![Static Badge](https://img.shields.io/badge/carbon%20design%20system-%231e1e1e?style=for-the-badge&logoColor=%23FFFFFF&logoSize=amd)
+
+![Static Badge](https://img.shields.io/badge/shadcn%2Fui-%231e1e1e?style=for-the-badge&logo=shadcnui&logoColor=%23FFFFFF&logoSize=amd)
+
+![Static Badge](https://img.shields.io/badge/Shopify%20Polaris-20154B?style=for-the-badge&logo=shopify&logoColor=%23FFFFFF&logoSize=amd)
+
 
 
 
