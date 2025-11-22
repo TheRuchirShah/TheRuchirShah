@@ -3,9 +3,7 @@
 
 Google Form - ![Static Badge](https://img.shields.io/badge/google%20forms-%23802BBE?style=for-the-badge&logo=googleforms)
 
-Typeform - ![Static Badge](https://img.shields.io/badge/typeform-3C323E?style=for-the-badge&logo=typeform) 
-![Static Badge](https://img.shields.io/badge/typeform-3C323E?style=for-the-badge&logo=typeform&logoSize=auto)
-
+Typeform - ![Static Badge](https://img.shields.io/badge/typeform-3C323E?style=for-the-badge&logo=typeform&logoSize=auto)
 
 Maze - ![Static Badge](https://img.shields.io/badge/maze-e8e8e8?style=for-the-badge&logo=maze&logoColor=%23000000&logoSize=auto)
 
@@ -47,7 +45,7 @@ Carbon Design Systerm - ![Static Badge](https://img.shields.io/badge/carbon%20de
 
 ![Static Badge](https://img.shields.io/badge/shadcn%2Fui-%231e1e1e?style=for-the-badge&logo=shadcnui&logoColor=%23FFFFFF&logoSize=amd)
 
-![Static Badge](https://img.shields.io/badge/Shopify%20Polaris-20154B?style=for-the-badge&logo=shopify&logoColor=%23FFFFFF&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/Shopify%20Polaris-%2395BF47?style=for-the-badge&logo=shopify&logoColor=%23ffffff&logoSize=auto)
 
 ![Static Badge](https://img.shields.io/badge/Lightning%20Design%20System-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=%23FFFFFF&logoSize=amd)
 
@@ -63,9 +61,9 @@ Carbon Design Systerm - ![Static Badge](https://img.shields.io/badge/carbon%20de
 
 ![Static Badge](https://img.shields.io/badge/Material%20Design-%239A49ED?style=for-the-badge&logo=materialdesign&logoSize=auto)
 
-![Static Badge](https://img.shields.io/badge/Human%20Interface%20Guidelines-%23000000?style=for-the-badge&logo=apple&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Human%20Interface%20Guidelines-%23D9D9D9?style=for-the-badge&logo=apple&logoColor=%23000000&logoSize=auto)
 
-![Static Badge](https://img.shields.io/badge/Microsoft%20Fluent-%23D9D9D9?style=for-the-badge&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Microsoft%20Fluent-%23D9D9D9?style=for-the-badge&logoSize=auto) 
 
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Fluent-%2300A3EE?style=for-the-badge&logoSize=auto)
 
@@ -96,6 +94,7 @@ Carbon Design Systerm - ![Static Badge](https://img.shields.io/badge/carbon%20de
 ![Static Badge](https://img.shields.io/badge/Obsidian-%238060D3?style=for-the-badge&logo=obsidian&logoSize=auto)
 
 ![Static Badge](https://img.shields.io/badge/Slack-%23E01E5A?style=for-the-badge&logo=slack&logoSize=auto)
+
 
 
 
