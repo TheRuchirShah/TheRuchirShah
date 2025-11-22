@@ -63,9 +63,7 @@ Carbon Design Systerm - ![Static Badge](https://img.shields.io/badge/carbon%20de
 
 ![Static Badge](https://img.shields.io/badge/Human%20Interface%20Guidelines-%23D9D9D9?style=for-the-badge&logo=apple&logoColor=%23000000&logoSize=auto)
 
-![Static Badge](https://img.shields.io/badge/Microsoft%20Fluent-%23D9D9D9?style=for-the-badge&logoSize=auto) 
-
-![Static Badge](https://img.shields.io/badge/Microsoft%20Fluent-%2300A3EE?style=for-the-badge&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Microsoft%20Fluent-%2300a4ef?style=for-the-badge)
 
 ![Static Badge](https://img.shields.io/badge/Adobe%20Spectrum%20Design%20System-%23FF0000?style=for-the-badge&logoSize=auto)
 
@@ -94,6 +92,7 @@ Carbon Design Systerm - ![Static Badge](https://img.shields.io/badge/carbon%20de
 ![Static Badge](https://img.shields.io/badge/Obsidian-%238060D3?style=for-the-badge&logo=obsidian&logoSize=auto)
 
 ![Static Badge](https://img.shields.io/badge/Slack-%23E01E5A?style=for-the-badge&logo=slack&logoSize=auto)
+
 
 
 
