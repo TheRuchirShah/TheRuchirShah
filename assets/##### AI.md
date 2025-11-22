@@ -93,11 +93,20 @@ Carbon Design Systerm - ![Static Badge](https://img.shields.io/badge/carbon%20de
 
 ![Static Badge](https://img.shields.io/badge/Slack-%23E01E5A?style=for-the-badge&logo=slack&logoSize=auto)
 
+![Static Badge](https://img.shields.io/badge/Lottie%20Files-%2300DDB3?style=for-the-badge&logo=lottiefiles&logoColor=%23FFFFFF&logoSize=uto)
+
+![Static Badge](https://img.shields.io/badge/Affinity-%23000000?style=for-the-badge&logo=affinity&logoColor=%23FFFFFF&logoSize=uto)
+
+![Static Badge](https://img.shields.io/badge/Affinity%20Photo-%234E2F8A?style=for-the-badge&logo=affinityphoto&logoColor=%23FFFFFF&logoSize=uto)
+
+![Static Badge](https://img.shields.io/badge/Affinity%20Designer-%23144882?style=for-the-badge&logo=affinitydesigner&logoColor=%23FFFFFF&logoSize=uto)
+
+![Static Badge](https://img.shields.io/badge/Google%20Workspace-%235D6366?style=for-the-badge&logo=google&logoColor=%23FFFFFF&logoSize=uto)
 
 
 
 
-@
+
 #
 
 
@@ -435,6 +444,7 @@ Slack
   ![Obsidian](https://img.shields.io/badge/Obsidian-%238060D3?style=for-the-badge&logo=obsidian)
 - Slack  
   ![Slack](https://img.shields.io/badge/Slack-%23E01E5A?style=for-the-badge&logo=slack)
+
 
 
 
