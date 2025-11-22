@@ -22,6 +22,17 @@ Whimsical - ![Static Badge](https://img.shields.io/badge/Whimsical-%23250835?sty
 
 ProtoPie - ![Static Badge](https://img.shields.io/badge/ProtoPie-%23FD5552?style=for-the-badge)
 
+Origami Studio - ![Static Badge](https://img.shields.io/badge/Origami%20Studio-%23AAD7FC?style=for-the-badge)
+
+Confluence - ![Static Badge](https://img.shields.io/badge/Confluence-%23085CD6?style=for-the-badge&logo=confluence)
+
+ZeroHeight - ![Static Badge](https://img.shields.io/badge/ZeroHeight-%23FF4852?style=for-the-badge)
+
+
+
+
+
+
 
 
 
