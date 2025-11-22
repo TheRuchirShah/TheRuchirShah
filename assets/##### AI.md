@@ -80,6 +80,17 @@ Carbon Design Systerm - ![Static Badge](https://img.shields.io/badge/carbon%20de
 
 ![Static Badge](https://img.shields.io/badge/Intuit%20System%20Design-%23236CFF?style=for-the-badge&logo=intuit&logoSize=auto)
 
+![Static Badge](https://img.shields.io/badge/Canva-%2307B9CE?style=for-the-badge&logo=canva&logoColor=%23ffffff&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Blender-%23EA7600?style=for-the-badge&logo=blender&logoColor=%23ffffff&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/DaVinci%20Resolve-%23243B53?style=for-the-badge&logo=davinciresolve&logoColor=%23ffffff&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Deque%20Axe%20DevTools%20Pro-%23043249?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Stark-%233420C8?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/WAVE%20Web%20Accessibility%20Tool-%234777B5?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
 
 
 
