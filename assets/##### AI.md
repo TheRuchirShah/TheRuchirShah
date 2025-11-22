@@ -32,6 +32,10 @@ Notion - ![Static Badge](https://img.shields.io/badge/Notion-%23040404?style=for
 
 GitBook - ![Static Badge](https://img.shields.io/badge/GitBook-%233681FC?style=for-the-badge&logo=gitbook)
 
+Mixpanel - ![Static Badge](https://img.shields.io/badge/Mixpanel-%237856FF?style=for-the-badge&logo=mixpanel&logoColor=%23ffffff)
+
+Googl Analytics - ![Static Badge](https://img.shields.io/badge/Google%20Analytics-F57E04?style=for-the-badge&logo=googleanalytics&logoColor=%23FFFFFF)
+
 
 
 
