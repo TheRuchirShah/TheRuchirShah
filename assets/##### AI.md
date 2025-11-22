@@ -7,14 +7,13 @@ Typeform - ![Static Badge](https://img.shields.io/badge/typeform-3C323E?style=fo
 ![Static Badge](https://img.shields.io/badge/typeform-3C323E?style=for-the-badge&logo=typeform&logoSize=auto)
 
 
-Maze - ![Static Badge](https://img.shields.io/badge/maze-3C323E?style=for-the-badge&logo=maze&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/maze-e8e8e8?style=for-the-badge&logo=maze&logoColor=%23000000&logoSize=auto)
+Maze - ![Static Badge](https://img.shields.io/badge/maze-e8e8e8?style=for-the-badge&logo=maze&logoColor=%23000000&logoSize=auto)
 
 Microsoft Clarity - ![Static Badge](https://img.shields.io/badge/Microsoft%20Clarity-%232671CC?style=for-the-badge)
 
 Userberry - ![Static Badge](https://img.shields.io/badge/Useberry-%23FF3666?style=for-the-badge)
 
-Hotjar - ![Static Badge](https://img.shields.io/badge/hotjar-%23323232?style=for-the-badge&logo=hotjar&logoColor=%FFFFFF)
+Hotjar - ![Static Badge](https://img.shields.io/badge/Hotjar-%23FF3C00?style=for-the-badge&logo=hotjar&logoColor=%23ffffff&logoSize=auto)
 
 Optimal Worshop - ![Static Badge](https://img.shields.io/badge/optimal%20workshop-%23FFAD01?style=for-the-badge)
 
@@ -97,6 +96,7 @@ Carbon Design Systerm - ![Static Badge](https://img.shields.io/badge/carbon%20de
 ![Static Badge](https://img.shields.io/badge/Obsidian-%238060D3?style=for-the-badge&logo=obsidian&logoSize=auto)
 
 ![Static Badge](https://img.shields.io/badge/Slack-%23E01E5A?style=for-the-badge&logo=slack&logoSize=auto)
+
 
 
 
