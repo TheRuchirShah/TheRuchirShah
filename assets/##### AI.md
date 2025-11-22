@@ -28,6 +28,11 @@ Confluence - ![Static Badge](https://img.shields.io/badge/Confluence-%23085CD6?s
 
 ZeroHeight - ![Static Badge](https://img.shields.io/badge/ZeroHeight-%23FF4852?style=for-the-badge)
 
+Notion - ![Static Badge](https://img.shields.io/badge/Notion-%23040404?style=for-the-badge&logo=notion)
+
+GitBook - ![Static Badge](https://img.shields.io/badge/GitBook-%233681FC?style=for-the-badge&logo=gitbook)
+
+
 
 
 
