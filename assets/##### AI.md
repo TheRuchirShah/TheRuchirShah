@@ -96,6 +96,8 @@ Carbon Design Systerm - ![Static Badge](https://img.shields.io/badge/carbon%20de
 
 ![Static Badge](https://img.shields.io/badge/Obsidian-%238060D3?style=for-the-badge&logo=obsidian&logoSize=auto)
 
+![Static Badge](https://img.shields.io/badge/Slack-%23E01E5A?style=for-the-badge&logo=slack&logoSize=auto)
+
 
 
 
