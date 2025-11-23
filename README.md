@@ -74,6 +74,15 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Mobbin-%231e1e1e?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/PatternFly-%230066cc?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/UI%20Garage-%232b2b2b?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Collect%20UI-%2319cdff?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/SaaS%20Landing%20Page-%23e5e7eb?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Awwwards-%23292523?style=for-the-badge&logo=awwwards)
+![Static Badge](https://img.shields.io/badge/Landbook-%23017c6e?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Lapa%20Ninja-%236376dc?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Page%20Flows-%236d9bf7?style=for-the-badge)
 
 #### UX-UI  Wireframe & Design 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -145,8 +154,6 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Static Badge](https://img.shields.io/badge/Stark-%233420C8?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Use%20Contrast-%23FFFF00?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/WAVE%20Web%20Accessibility%20Tool-%234777B5?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
-
-#
 
 #### Hosting / SAAS / PAAS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
