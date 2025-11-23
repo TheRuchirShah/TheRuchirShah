@@ -92,7 +92,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Origami%20Studio-%23AAD7FC?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/ProtoPie-%23FD5552?style=for-the-badge)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Sketch-%23ffcb1f?style=for-the-badge&logo=sketch&logoColor=%23000000)
 
 #### Collaboration & Documentation
 ![Static Badge](https://img.shields.io/badge/Confluence-%23085CD6?style=for-the-badge&logo=confluence)
