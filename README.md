@@ -203,6 +203,18 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### Other
+![Static Badge](https://img.shields.io/badge/Prettier-%2300011a?style=for-the-badge&logo=prettier&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/ESLint-%2300011a?style=for-the-badge&logo=eslint)
+![Static Badge](https://img.shields.io/badge/npm-%23c71414?style=for-the-badge&logo=npm)
+![Static Badge](https://img.shields.io/badge/FigJam-%23aa3ce6?style=for-the-badge&logo=figma&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Google%20Collab-%23f6d132?style=for-the-badge&logo=googlecolab&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/Airtable-%23f02a5d?style=for-the-badge&logo=airtable&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Babel-%23f5da55?style=for-the-badge&logo=babel&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/Storybook-%23ec5885?style=for-the-badge&logo=storybook&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/PostCSS-%23d6380a?style=for-the-badge&logo=postcss&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Hugging%20Face-%23f3cb1f?style=for-the-badge&logo=huggingface&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/Open%20Source-%233ba136?style=for-the-badge&logo=opensourceinitiative&logoColor=%23ffffff&logoSize=auto)
+
 
 
 #### Programming Languages
