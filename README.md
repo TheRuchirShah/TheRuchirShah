@@ -124,7 +124,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Static Badge](https://img.shields.io/badge/Chakra%20UI-%2329BFB3?style=for-the-badge&logo=chakraui&logoColor=%23FFFFFF&logoSize=amd)
 ![Static Badge](https://img.shields.io/badge/GitLab%20Pajamas%20Design%20System-%238244C9?style=for-the-badge&logo=gitlab&logoColor=%23FFFFFF&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Human%20Interface%20Guidelines-%23D9D9D9?style=for-the-badge&logo=apple&logoColor=%23000000&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Intuit%20System%20Design-%23236CFF?style=for-the-badge&logo=intuit&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Intuit%20System%20Design-%23236CFF?style=for-the-badge&logo=intuit)
 ![Static Badge](https://img.shields.io/badge/Lightning%20Design%20System-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=%23FFFFFF&logoSize=amd)
 ![Static Badge](https://img.shields.io/badge/Material%20Design-%239A49ED?style=for-the-badge&logo=materialdesign&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Material%20UI-%23007FFF?style=for-the-badge&logo=mui&logoColor=%23FFFFFF)
