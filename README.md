@@ -51,7 +51,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Framer](https://img.shields.io/badge/Framer-%230055fe?style=for-the-badge&logo=framer)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -92,7 +92,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 
 #### Prototype and Interaction Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Framer](https://img.shields.io/badge/Framer-%230055fe?style=for-the-badge&logo=framer)
 ![Static Badge](https://img.shields.io/badge/Origami%20Studio-%23AAD7FC?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/ProtoPie-%23FD5552?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Sketch-%23ffcb1f?style=for-the-badge&logo=sketch&logoColor=%23000000)
