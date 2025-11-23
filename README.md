@@ -134,7 +134,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Shopify%20Polaris-%2395BF47?style=for-the-badge&logo=shopify&logoColor=%23ffffff&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=%23FFFFFF&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Uber%20Base%20Design%20System-%23000000?style=for-the-badge&logo=uber&logoSize=auto)
+![Uber](https://img.shields.io/badge/UBER-%231e1e1e?style=for-the-badge&logo=uber)
 ![Static Badge](https://img.shields.io/badge/zag.js-%2300D163?style=for-the-badge&logoSize=auto)
 
 
