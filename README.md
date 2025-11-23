@@ -58,6 +58,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Penpot](https://img.shields.io/badge/Penpot-%23f23ae5?style=for-the-badge&logo=penpot)
 ![Static Badge](https://img.shields.io/badge/Sketch-%23ffcb1f?style=for-the-badge&logo=sketch&logoColor=%23000000)
 
+
 #### UX Research
 ![Static Badge](https://img.shields.io/badge/google%20forms-%23802BBE?style=for-the-badge&logo=googleforms)
 ![Hotjar](https://img.shields.io/badge/Hotjar-%23FF3C00?style=for-the-badge&logo=hotjar&logoColor=%23ffffff)
@@ -68,18 +69,24 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Static Badge](https://img.shields.io/badge/Useberry-%23FF3666?style=for-the-badge)
 
 #### UI Research
-![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Mobbin-%231e1e1e?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/PatternFly-%230066cc?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/UI%20Garage-%232b2b2b?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Collect%20UI-%2319cdff?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/SaaS%20Landing%20Page-%23e5e7eb?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Awwwards-%23292523?style=for-the-badge&logo=awwwards)
+![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Collect%20UI-%2319cdff?style=for-the-badge)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Landbook-%23017c6e?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Lapa%20Ninja-%236376dc?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Mobbin-%231e1e1e?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Page%20Flows-%236d9bf7?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/PatternFly-%230066cc?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/SaaS%20Landing%20Page-%23e5e7eb?style=for-the-badge)![Static Badge](https://img.shields.io/badge/UI%20Garage-%232b2b2b?style=for-the-badge)
+
+
+
+
+
+
 
 #### UX-UI  Wireframe & Design 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -108,43 +115,43 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Static Badge](https://img.shields.io/badge/Mixpanel-%237856FF?style=for-the-badge&logo=mixpanel&logoColor=%23ffffff)
 
 #### Design System & Component Libraries
-![Static Badge](https://img.shields.io/badge/Material%20UI-%23007FFF?style=for-the-badge&logo=mui&logoColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=%23FFFFFF&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Ant%20Design-%231e1e1e?style=for-the-badge&logo=antdesign&logoColor=%23FFFFFF&logoSize=amd)
-![Static Badge](https://img.shields.io/badge/Chakra%20UI-%2329BFB3?style=for-the-badge&logo=chakraui&logoColor=%23FFFFFF&logoSize=amd)
-![Static Badge](https://img.shields.io/badge/carbon%20design%20system-%231e1e1e?style=for-the-badge&logoColor=%23FFFFFF&logoSize=amd)
-![Static Badge](https://img.shields.io/badge/shadcn%2Fui-%231e1e1e?style=for-the-badge&logo=shadcnui&logoColor=%23FFFFFF&logoSize=amd)
-![Static Badge](https://img.shields.io/badge/Shopify%20Polaris-%2395BF47?style=for-the-badge&logo=shopify&logoColor=%23ffffff&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Lightning%20Design%20System-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=%23FFFFFF&logoSize=amd)
-![Static Badge](https://img.shields.io/badge/Ark%20UI-%23EB5E41?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Atlassian%20Design%20System-%231868DB?style=for-the-badge&logo=atlassian)
-![Static Badge](https://img.shields.io/badge/Uber%20Base%20Design%20System-%23000000?style=for-the-badge&logo=uber&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/SAP%20Fiori-%230499D3?style=for-the-badge&logo=sap&logoColor=%23ffffff&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/zag.js-%2300D163?style=for-the-badge&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Material%20Design-%239A49ED?style=for-the-badge&logo=materialdesign&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Human%20Interface%20Guidelines-%23D9D9D9?style=for-the-badge&logo=apple&logoColor=%23000000&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Microsoft%20Fluent-%2300a4ef?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Adobe%20Spectrum%20Design%20System-%23FF0000?style=for-the-badge&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/GitLab%20Pajamas%20Design%20System-%238244C9?style=for-the-badge&logo=gitlab&logoColor=%23FFFFFF&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Airbnb%20Design%20Language%20System-%23FF5A5F?style=for-the-badge&logo=airbnb&logoColor=%23FFFFFF&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Amazon%20Cloudscape%20Design%20System-%23FF9900?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Ant%20Design-%231e1e1e?style=for-the-badge&logo=antdesign&logoColor=%23FFFFFF&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/Ark%20UI-%23EB5E41?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Atlassian%20Design%20System-%231868DB?style=for-the-badge&logo=atlassian)
+![Static Badge](https://img.shields.io/badge/carbon%20design%20system-%231e1e1e?style=for-the-badge&logoColor=%23FFFFFF&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/Chakra%20UI-%2329BFB3?style=for-the-badge&logo=chakraui&logoColor=%23FFFFFF&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/GitLab%20Pajamas%20Design%20System-%238244C9?style=for-the-badge&logo=gitlab&logoColor=%23FFFFFF&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Human%20Interface%20Guidelines-%23D9D9D9?style=for-the-badge&logo=apple&logoColor=%23000000&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Intuit%20System%20Design-%23236CFF?style=for-the-badge&logo=intuit&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Lightning%20Design%20System-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=%23FFFFFF&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/Material%20Design-%239A49ED?style=for-the-badge&logo=materialdesign&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Material%20UI-%23007FFF?style=for-the-badge&logo=mui&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Microsoft%20Fluent-%2300a4ef?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/SAP%20Fiori-%230499D3?style=for-the-badge&logo=sap&logoColor=%23ffffff&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/shadcn%2Fui-%231e1e1e?style=for-the-badge&logo=shadcnui&logoColor=%23FFFFFF&logoSize=amd)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Shopify%20Polaris-%2395BF47?style=for-the-badge&logo=shopify&logoColor=%23ffffff&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=%23FFFFFF&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Uber%20Base%20Design%20System-%23000000?style=for-the-badge&logo=uber&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/zag.js-%2300D163?style=for-the-badge&logoSize=auto)
 
 #### Motion, Visual and Micro-Interaction
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Blender-%23EA7600?style=for-the-badge&logo=blender&logoColor=%23ffffff&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Canva-%2307B9CE?style=for-the-badge&logo=canva&logoColor=%23ffffff&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/DaVinci%20Resolve-%23243B53?style=for-the-badge&logo=davinciresolve&logoColor=%23ffffff&logoSize=auto)
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Static Badge](https://img.shields.io/badge/Lottie%20Files-%2300DDB3?style=for-the-badge&logo=lottiefiles&logoColor=%23FFFFFF&logoSize=uto)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 #### Accessibility and & UX QA
 ![Static Badge](https://img.shields.io/badge/Deque%20Axe%20DevTools%20Pro-%23043249?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
