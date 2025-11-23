@@ -56,10 +56,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Penpot](https://img.shields.io/badge/Penpot-%23f23ae5?style=for-the-badge&logo=penpot)
-
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-
-#
+![Static Badge](https://img.shields.io/badge/Sketch-%23ffcb1f?style=for-the-badge&logo=sketch&logoColor=%23000000)
 
 #### UX Research
 ![Static Badge](https://img.shields.io/badge/google%20forms-%23802BBE?style=for-the-badge&logo=googleforms)
