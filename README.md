@@ -1,6 +1,9 @@
 <!--Banner-->
 ![TheRuchirShah Banner Image](./assets/Frame.png)
 
+<!--Banner-->
+![TheRuchirShah Banner Image](./assets/Frame1618.png)
+
 ## 👋 Hi! I'm Ruchir Shah
 
 <div>
