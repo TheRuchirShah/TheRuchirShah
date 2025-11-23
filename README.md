@@ -68,6 +68,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Static Badge](https://img.shields.io/badge/typeform-3C323E?style=for-the-badge&logo=typeform&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Useberry-%23FF3666?style=for-the-badge)
 
+
 #### UI Research
 ![Static Badge](https://img.shields.io/badge/Awwwards-%23292523?style=for-the-badge&logo=awwwards)
 ![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
@@ -79,13 +80,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Static Badge](https://img.shields.io/badge/Mobbin-%231e1e1e?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Page%20Flows-%236d9bf7?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/PatternFly-%230066cc?style=for-the-badge)
-
 ![Static Badge](https://img.shields.io/badge/SaaS%20Landing%20Page-%23e5e7eb?style=for-the-badge)![Static Badge](https://img.shields.io/badge/UI%20Garage-%232b2b2b?style=for-the-badge)
-
-
-
-
-
 
 
 #### UX-UI  Wireframe & Design 
@@ -94,12 +89,14 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Penpot](https://img.shields.io/badge/Penpot-%23f23ae5?style=for-the-badge&logo=penpot)
 ![Static Badge](https://img.shields.io/badge/Whimsical-%23250835?style=for-the-badge)
 
+
 #### Prototype and Interaction Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Origami%20Studio-%23AAD7FC?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/ProtoPie-%23FD5552?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Sketch-%23ffcb1f?style=for-the-badge&logo=sketch&logoColor=%23000000)
+
 
 #### Collaboration & Documentation
 ![Static Badge](https://img.shields.io/badge/Confluence-%23085CD6?style=for-the-badge&logo=confluence)
@@ -110,9 +107,11 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Static Badge](https://img.shields.io/badge/Slack-%23E01E5A?style=for-the-badge&logo=slack&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/ZeroHeight-%23FF4852?style=for-the-badge)
 
+
 #### Usability Testing and Analytics
 ![Static Badge](https://img.shields.io/badge/Google%20Analytics-F57E04?style=for-the-badge&logo=googleanalytics&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Mixpanel-%237856FF?style=for-the-badge&logo=mixpanel&logoColor=%23ffffff)
+
 
 #### Design System & Component Libraries
 ![Static Badge](https://img.shields.io/badge/Adobe%20Spectrum%20Design%20System-%23FF0000?style=for-the-badge&logoSize=auto)
@@ -138,6 +137,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Static Badge](https://img.shields.io/badge/Uber%20Base%20Design%20System-%23000000?style=for-the-badge&logo=uber&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/zag.js-%2300D163?style=for-the-badge&logoSize=auto)
 
+
 #### Motion, Visual and Micro-Interaction
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -153,11 +153,13 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Static Badge](https://img.shields.io/badge/Lottie%20Files-%2300DDB3?style=for-the-badge&logo=lottiefiles&logoColor=%23FFFFFF&logoSize=uto)
 
+
 #### Accessibility and & UX QA
 ![Static Badge](https://img.shields.io/badge/Deque%20Axe%20DevTools%20Pro-%23043249?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Stark-%233420C8?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Use%20Contrast-%23FFFF00?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/WAVE%20Web%20Accessibility%20Tool-%234777B5?style=for-the-badge&logoColor=%23ffffff&logoSize=auto)
+
 
 #### Hosting / SAAS / PAAS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -167,6 +169,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Hostinger](https://img.shields.io/badge/hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 #### IDE
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
@@ -183,11 +186,13 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
+
 #### Office Suite
 ![Apache OpenOffice](https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
 
 #### Operating System
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -209,19 +214,19 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Wear OS](https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
 #### Other
-![Static Badge](https://img.shields.io/badge/Prettier-%2300011a?style=for-the-badge&logo=prettier&logoColor=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/ESLint-%2300011a?style=for-the-badge&logo=eslint)
-![Static Badge](https://img.shields.io/badge/npm-%23c71414?style=for-the-badge&logo=npm)
-![Static Badge](https://img.shields.io/badge/FigJam-%23aa3ce6?style=for-the-badge&logo=figma&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Google%20Collab-%23f6d132?style=for-the-badge&logo=googlecolab&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/Airtable-%23f02a5d?style=for-the-badge&logo=airtable&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Babel-%23f5da55?style=for-the-badge&logo=babel&logoColor=%23000000)
-![Static Badge](https://img.shields.io/badge/Storybook-%23ec5885?style=for-the-badge&logo=storybook&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/PostCSS-%23d6380a?style=for-the-badge&logo=postcss&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/ESLint-%2300011a?style=for-the-badge&logo=eslint)
+![Static Badge](https://img.shields.io/badge/FigJam-%23aa3ce6?style=for-the-badge&logo=figma&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Google%20Collab-%23f6d132?style=for-the-badge&logo=googlecolab&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/Hugging%20Face-%23f3cb1f?style=for-the-badge&logo=huggingface&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/npm-%23c71414?style=for-the-badge&logo=npm)
 ![Static Badge](https://img.shields.io/badge/Open%20Source-%233ba136?style=for-the-badge&logo=opensourceinitiative&logoColor=%23ffffff&logoSize=auto)
-
+![Static Badge](https://img.shields.io/badge/PostCSS-%23d6380a?style=for-the-badge&logo=postcss&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Prettier-%2300011a?style=for-the-badge&logo=prettier&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Storybook-%23ec5885?style=for-the-badge&logo=storybook&logoColor=%23ffffff)
 
 
 #### Programming Languages
@@ -244,6 +249,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+
 #### Version Control
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -261,7 +267,6 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
  <a href="https://github.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/github-badge.svg" target="_blank"></a>
  <a href="https://behance.net/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/behance-badge.svg" target="_blank"></a>
  <a href="https://dribbble.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/dribbble-badge.svg" target="_blank"></a>
-
 </div>
 
 
