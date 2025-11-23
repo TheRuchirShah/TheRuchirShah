@@ -57,7 +57,7 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Penpot](https://img.shields.io/badge/Penpot-%23f23ae5?style=for-the-badge&logo=penpot)
 ![Static Badge](https://img.shields.io/badge/Sketch-%23ffcb1f?style=for-the-badge&logo=sketch&logoColor=%23000000)
-
+<br/><br/> 
 > **Note:** Below are my UI-UX Design Stack.
 
 #### UX Research
