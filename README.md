@@ -1,4 +1,5 @@
 <!--Banner-->
+![TheRuchirShah Banner Image](./assets/Frame116.png)
 ![TheRuchirShah Banner Image](./assets/Frame1618.png)
 
 ## 👋 Hi! I'm Ruchir Shah
