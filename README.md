@@ -1,6 +1,5 @@
-<!--Banner-->
+<!--Header Banner-->
 ![TheRuchirShah Banner Image](./assets/Frame116.png)
-![TheRuchirShah Banner Image](./assets/Frame1618.png)
 
 ## 👋 Hi! I'm Ruchir Shah
 
@@ -278,3 +277,5 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 #### Contribution graph.
 ![snake gif](https://github.com/TheRuchirShah/TheRuchirShah/blob/output/github-contribution-grid-snake.gif) 
 
+<!--Footer Banner-->
+![TheRuchirShah Banner Image](./assets/Frame1618.png)
