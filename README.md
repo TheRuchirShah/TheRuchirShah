@@ -271,14 +271,25 @@ At my core, I’m passionate about creating **simple, human, elegant solutions**
 
 
 #### Below are the social links, connect with me.
-<div> 
+<!-- <div> 
  <a href="https://twitter.com/theruchirshah/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/twitter-badge.svg" target="_blank"></a>
  <a href="https://www.linkedin.com/in/theruchirshah/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/linkedin-badge.svg" target="_blank"></a>
  <a href="https://codepen.io/TheKryptonian/" target="_blank"><img src="https://img.shields.io/badge/CodePen-e0e0e0?style=for-the-badge&logo=codepen&logoColor=black" target="_blank"></a>
  <a href="https://github.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/github-badge.svg" target="_blank"></a>
  <a href="https://behance.net/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/behance-badge.svg" target="_blank"></a>
  <a href="https://dribbble.com/TheRuchirShah" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/dribbble-badge.svg" target="_blank"></a>
+</div> -->
+
+
+<div>
+<a href="https://twitter.com/theruchirshah/" target="_blank"><img src="https://img.shields.io/badge/X(Twitter)-%23000000?style=for-the-badge&logo=x" target="_blank"></a>
+<a href="https://linkedin.com/in/theruchirshah/" target="_blank"><img src="https://github.com/TheRuchirShah/Dev-Tech-Icons/blob/main/badges/linkedin-badge.svg" target="_blank"></a>
+<a href="https://codepen.io/TheKryptonian/" target="_blank"><img src="https://img.shields.io/badge/CodePen-e0e0e0?style=for-the-badge&logo=codepen&logoColor=black" target="_blank"></a>
+<a href="https://github.com/TheRuchirShah/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://behance.net/TheRuchirShah/" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+<a href="https://dribbble.com/TheRuchirShah/" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
 </div>
+
 
 
 #### Contribution graph.
