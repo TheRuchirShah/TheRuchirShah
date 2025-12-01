@@ -1,5 +1,5 @@
 <!--Header Banner-->
-![TheRuchirShah Banner Image](./assets/Frame116.png)
+![TheRuchirShah Banner Image](./assets/images/github_readme_header.png)
 
 ## 👋 Hi! I'm Ruchir Shah
 
@@ -23,11 +23,6 @@ What excites me most is the rapid evolution of technology, from AI-assisted desi
 
 At my core, I’m passionate about creating **simple, human, elegant solutions** backed by research, powered by technology, and crafted with intention.
 
----
-
-I’m a creative and strategic UX/UI Designer and Web Developer dedicated to crafting seamless and engaging digital experiences. With a proven track record of designing user-centric web and mobile applications, I specialize in blending functionality with aesthetics. My design process is data-driven, yet creatively inspired, ensuring that every product not only meets the needs of users but also aligns with business objectives.
-
-I thrive on collaborating with cross-functional teams to create intuitive and innovative solutions. Whether it’s enhancing e-commerce platforms, improving healthcare apps, or building wellness experiences, I am passionate about solving problems through design.
 
  
 ## 💻 Tech Stack:
@@ -289,5 +284,6 @@ I thrive on collaborating with cross-functional teams to create intuitive and in
 #### Contribution graph.
 ![snake gif](https://github.com/TheRuchirShah/TheRuchirShah/blob/output/github-contribution-grid-snake.gif) 
 
-<!--Footer Banner-->
-![TheRuchirShah Footer Image](./assets/Frame1618.png)
+
+<!--Header Banner-->
+![TheRuchirShah Banner Image](./assets/images/github_readme_footer.png)
