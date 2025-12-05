@@ -1,5 +1,5 @@
 <!--Header Banner-->
-![TheRuchirShah Header Banner Image](./assets/images/github_readme_header.png)
+![TheRuchirShah Header Banner Image](./assets/images/github_readme_header_img.png)
 
 ## 👋 Hi! I'm Ruchir Shah
 
