@@ -1,5 +1,5 @@
 <!--Header Banner-->
-![TheRuchirShah Banner Image](./assets/images/github_readme_header.png)
+![TheRuchirShah Banner Image](./assets/images/github_readme_header_img.png)
 
 ## 👋 Hi! I'm Ruchir Shah
 
@@ -297,4 +297,4 @@ At my core, I’m passionate about creating **simple, human, elegant solutions**
 
 
 <!--Header Banner-->
-![TheRuchirShah Banner Image](./assets/images/github_readme_footer.png)
+![TheRuchirShah Banner Image](./assets/images/github_readme_footer_img.png)
