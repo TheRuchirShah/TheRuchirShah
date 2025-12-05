@@ -297,4 +297,4 @@ At my core, I’m passionate about creating **simple, human, elegant solutions**
 
 
 <!--Header Banner-->
-![TheRuchirShah Footer Banner Image](./assets/images/github_readme_footer_img.png)
+![TheRuchirShah Footer Banner Image](./assets/images/github_readme_footer.png)
