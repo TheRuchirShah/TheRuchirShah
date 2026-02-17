@@ -14,7 +14,7 @@
 
 ## 😎 About Me:
 
-Hi, I’m **Ruchir**, a Product Designer and UI/UX Specialist with 7+ year of experience shaping intuitive, scalable, and human-centered digital experiences. My work sits at the **intersection of design, technology, and behavioral psychology**, where I craft products that not only look beautiful but also function with clarity, purpose, and measurable impact.
+Hi, I’m **Ruchir**, a Product Designer UI/UX Specialist and Developer with 7+ year of experience shaping intuitive, scalable, and human-centered digital experiences. My work sits at the **intersection of design, technology, and behavioral psychology**, where I craft products that not only look beautiful but also function with clarity, purpose, and measurable impact.
 
 Over the years, I’ve led and contributed to design for **web platforms, SaaS products, enterprise software, e-commerce systems, and mobile applications, dashboards, ERP Solutions and much more**, bringing together research, strategy, and visual design to solve complex experience problems. I transform cluttered, uninspiring interfaces into **meaningful, conversion-focused experiences** that align with both user goals and business outcomes.
 
