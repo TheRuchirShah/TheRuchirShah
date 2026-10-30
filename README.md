@@ -38,6 +38,8 @@ At my core, I’m passionate about creating **simple, human, elegant solutions**
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-1e1e1e?style=for-the-badge&logo=Ollama&logoColor=white)
 ![huggingface](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![lmstudio](https://img.shields.io/badge/lmstudio-6760CF?style=for-the-badge&logo=lmstudio&logoColor=white)
+
 
 
 
@@ -73,6 +75,9 @@ At my core, I’m passionate about creating **simple, human, elegant solutions**
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Penpot](https://img.shields.io/badge/Penpot-%23f23ae5?style=for-the-badge&logo=penpot)
 ![Static Badge](https://img.shields.io/badge/Sketch-%23ffcb1f?style=for-the-badge&logo=sketch&logoColor=%23000000)
+![lovable](https://img.shields.io/badge/lovable-E61363?style=for-the-badge&logo=lovable&logoColor=black)
+![Emergent](https://img.shields.io/badge/Emergent-1e1e1e?style=for-the-badge&logo=Emergent&logoColor=white)
+
 <br/><br/> 
 > **Note:** Below are my UI-UX Design Stack.
 
